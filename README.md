@@ -12,3 +12,7 @@ Built an interactive dashboard using Excel to analyze e-commerce sales data.
 - Microsoft Excel
 - Pivot Tables
 - Charts & Slicers
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
